@@ -1,0 +1,44 @@
+
+
+.wmde-markdown {
+    // h1 {
+    //     @apply text-5xl font-extrabold leading-snug mb-2;
+    // }
+    // h2 {
+    //     @apply text-3xl font-bold my-4;
+    // }
+    // h3 {
+    //     @apply text-2xl font-bold my-4;
+    // }
+    // p {
+    //     @apply mb-5;
+    // }
+    // img {
+    //     @apply max-w-[500px] w-full object-cover inset-1 my-5 mx-auto border rounded-lg overflow-hidden;
+    // }
+
+    // ul {
+    // }
+    // li {
+    // }
+
+    // font-size: 1.25rem/* 20px */;
+    // line-height: 2.5rem/* 28px */;
+    // .w-md-editor-text-input {
+    //     -webkit-text-fill-color: darkslategray;
+    // }
+    // font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif 
+    
+    h2, h3 {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    img {
+        margin: 0px auto;
+        // width: 90%;
+        // border-radius: 6px;
+    }
+    .anchor {
+        display: none;
+    }
+}
